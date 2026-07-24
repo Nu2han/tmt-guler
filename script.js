@@ -1,4 +1,4 @@
-const API_KEY="AIzaSyBGExLtDiWm9VQ1hlAVfoDTJCUnUdRrBSU";
+const API_KEY="AIzaSyDNMy_0Uc1XXtD-59ks4xkMFhKIxj2xCcw";
 const menuBtn=document.getElementById("menuBtn");
 
 const navLinks=document.querySelector(".nav-links");
